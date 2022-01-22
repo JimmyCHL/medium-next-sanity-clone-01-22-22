@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+#
+mediumsanitynextclone012122/node_modules
+mediumsanitynextclone012122/dist
+
 # next.js
 /.next/
 /out/
